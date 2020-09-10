@@ -7,7 +7,7 @@ alien.py, alien_ivansion.py, bullet.py, button.py, game_functions.py, game_stats
 
 Just Run alien_ivansion.py file to play a game.
 
-Make sure you have downloaded all the required modules.
+Make sure you have to download all the required modules.
 
 
 
